@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **in a french engineering school**
 
-- 👨‍💻 All of my projects are available at [on Github](on Github)
+- 👨‍💻 All of my projects are available at on Github.
 
 
 <h3 align="left">Languages and Tools:</h3>
